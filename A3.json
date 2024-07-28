@@ -1,0 +1,86 @@
+[
+    {
+        "project_name": "Eco-City Sustainable Housing",
+        "location": "NSW",
+        "status": "Registered",
+        "rating": 4,
+        "score": 72.5,
+        "certified_date": "15-06-2023",
+        "rating_tool": "v3",
+        "companies": ["Green Living Builders", "Sustainable Solutions LLC"],
+        "organisations": [
+            {"name": "Energy Consultant", "role": "EcoEnergy Solutions"},
+            {"name": "Landscape Designer", "role": "GreenScapes Inc."}
+        ]
+    },
+    {
+        "project_name": "City Housing",
+        "location": "NSW",
+        "status": "Certified",
+        "rating": 5,
+        "score": 72.5,
+        "certified_date": "13-06-2023",
+        "rating_tool": "v1",
+        "companies": ["Green Living Builders", "Sustainable Solutions LLC"],
+        "organisations": [
+            {"name": "Energy Consultant", "role": "EcoEnergy Solutions"},
+            {"name": "Landscape Designer", "role": "GreenScapes Inc."}
+        ]
+    },
+    {
+        "project_name": "Lakeside Retreat Villas",
+        "location": "WA",
+        "status": "Certified",
+        "rating": 5,
+        "score": 88.3,
+        "certified_date": "30-11-2022",
+        "rating_tool": "v3",
+        "companies": ["Mountain Construction Co.", "AquaBlue Architecture"],
+        "organisations": [
+            {"name": "Structural Engineer", "role": "Alpine Structural Solutions"},
+            {"name": "Interior Designer", "role": "Lakeside Interiors"}
+        ]
+    },
+    {
+        "project_name": "Mountainside Retreat Villas",
+        "location": "WA",
+        "status": "Registered",
+        "rating": 3,
+        "score": 88.3,
+        "certified_date": "30-11-2022",
+        "rating_tool": "v4",
+        "companies": ["Mountain Construction Co.", "AquaBlue Architecture"],
+        "organisations": [
+            {"name": "Structural Engineer", "role": "Alpine Structural Solutions"},
+            {"name": "Interior Designer", "role": "Lakeside Interiors"}
+        ]
+    },
+    {
+        "project_name": "Ocean View Resort",
+        "location": "NSW",
+        "status": "Certified",
+        "rating": 4,
+        "score": 58.9,
+        "certified_date": "10-12-2022",
+        "rating_tool": "v2",
+        "companies": ["Coastal Construction", "Aqua Architecture"],
+        "organisations": [
+            {"name": "MEP Engineer", "role": "Coastal MEP Solutions"},
+            {"name": "Interior Designer", "role": "Seaside Interiors"}
+        ]
+    },
+    {
+        "project_name": "Mountain View Resort",
+        "location": "VIC",
+        "status": "Certified",
+        "rating": 4,
+        "score": 56.8,
+        "certified_date": "10-12-2022",
+        "rating_tool": "v3",
+        "companies": ["Coastal Construction", "Aqua Architecture"],
+        "organisations": [
+            {"name": "MEP Engineer", "role": "Coastal MEP Solutions"},
+            {"name": "Interior Designer", "role": "Seaside Interiors"}
+        ]
+    }
+]
