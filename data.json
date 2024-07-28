@@ -1,0 +1,13 @@
+{
+     "visualization": {
+          "type": "pie",
+          "data": {
+               "4": 2,
+               "5": 1
+          }
+     },
+     "issisuby": "rating",
+     "filter_values": [
+          "NSW"
+     ]
+}

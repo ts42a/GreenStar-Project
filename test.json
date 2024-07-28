@@ -1,0 +1,11 @@
+{
+     "visualization": {
+          "type": "pie",
+          "data": {
+               "Location A": 1,
+               "Location B": 1
+          }
+     },
+     "issisuby": "location",
+     "filter_values": []
+}
